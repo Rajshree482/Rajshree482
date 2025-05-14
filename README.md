@@ -8,11 +8,11 @@ Just for intro
 
 📄 Know about my experiences https://github.com/Rajshree482
 
-🔭 My Team TechRediva
+🔭 My Team [TechRediva](https://schr0dy-coder.github.io/TechRediva/)
 
-- 😄 Pronouns: She/her
+😄 Pronouns: She/her
   
-- ⚡ Fun fact: I love designing
+⚡ Fun fact: I love designing
 
 <!---
 Rajshree482/Rajshree482 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
