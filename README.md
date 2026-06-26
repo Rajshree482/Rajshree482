@@ -28,28 +28,29 @@
 <br/>
 
 <!-- ABOUT ME -->
-### 🧑‍💻 About me
+<h3 align="center">🧑‍💻 About Me</h3>
+<p align="center"><sub>──────────────────────────</sub></p>
 
 <table>
 <tr>
 <td width="58%" valign="top">
 
-Hello there! I'm **Rajshree Balsamant**, a B.Tech CSE student and a **Dev × Content Writer** — someone who ships a feature, then writes the doc nobody reads. I'm currently exploring where code meets storytelling, building things with HTML, CSS, JavaScript, Python, Java, and SQL, while arguing with CSS more than with people.
+Hello there! I'm **Rajshree Balsamant**, a B.Tech Computer Science student at **ITER, SOA University**, Bhubaneswar. I work at the intersection of development and content — building interfaces with HTML, CSS, JavaScript, Python, Java, and SQL, while also writing as a **Content Writer at GDG on Campus ITER**, where I draft event proposals, reel scripts, and documentation.
 
-I think button copy is a design decision, not an afterthought, and I'm just as comfortable writing the documentation as I am writing the function it describes.
+I believe good interfaces and good writing solve the same problem: making something complicated feel simple to the person using it.
 
 &nbsp;&nbsp;🎓 &nbsp;Studying at **ITER, SOA University** — Bhubaneswar, India
 <br/>
 &nbsp;&nbsp;✍️ &nbsp;**Content Writer** @ GDG on Campus ITER
 <br/>
-&nbsp;&nbsp;🗂️ &nbsp;Building **Portfolio v2** — personal site, design-first
+&nbsp;&nbsp;🗂️ &nbsp;Currently building **Portfolio v2** — personal site, design-first
 <br/>
-&nbsp;&nbsp;📝 &nbsp;Writing **this README** — yes, recursively, I know
+&nbsp;&nbsp;🏆 &nbsp;Hackathon competitor — Diversion 2K26, HackOdisha 5.0
 
 </td>
 <td width="42%" valign="top" align="center">
 
-### `> arch --stack`
+**`arch --stack`**
 
 ```
 ┌──────────────┬──────────────────┐
@@ -74,12 +75,31 @@ I think button copy is a design decision, not an afterthought, and I'm just as c
 <br/>
 
 <!-- PROJECTS -->
-### `> ls projects/ --shipped`
+<h3 align="center">🗂️ Projects I've Built</h3>
+<p align="center"><sub>──────────────────────────</sub></p>
+
+<br/>
 
 <table>
 <tr>
 
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="50%">
+
+![BTH](https://img.shields.io/badge/🕵️_Behind_The_Headlines-Fake_News_Classifier-ffb700?style=for-the-badge&labelColor=1a1402)
+
+**Full-stack ML app — React + FastAPI + Scikit-Learn**
+
+Classifies news as authentic or fabricated using a trained TF-IDF/logistic regression model, wrapped in a dual-theme "vintage detective" UI — dark corkboard mode and light typewriter mode.
+
+![React](https://img.shields.io/badge/React-1a1402?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-1a1402?style=flat-square&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1402?style=flat-square&logo=fastapi&logoColor=009688)
+
+[**View Repo →**](https://github.com/Rajshree482/Behind_The_Headlines)
+
+</td>
+
+<td align="center" valign="top" width="50%">
 
 ![Portfolio](https://img.shields.io/badge/🗂️_Portfolio--Website-Personal_Site-ffb700?style=for-the-badge&labelColor=1a1402)
 
@@ -90,9 +110,15 @@ Built to actually *read* well, not just look good — typography and whitespace 
 ![HTML](https://img.shields.io/badge/HTML-1a1402?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-1a1402?style=flat-square&logo=css3&logoColor=1572B6)
 
+[**View Repo →**](https://github.com/Rajshree482/Portfolio-Website)
+
 </td>
 
-<td align="center" valign="top" width="33%">
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+
+<td align="center" valign="top" width="50%">
 
 ![Koenigsegg](https://img.shields.io/badge/🏎️_Koenigsegg_Showcase-Animation_%2B_JS-ffb700?style=for-the-badge&labelColor=1a1402)
 
@@ -103,9 +129,11 @@ A car showcase site built as a JS animation playground — every scroll has a re
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1402?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![HTML](https://img.shields.io/badge/HTML-1a1402?style=flat-square&logo=html5&logoColor=E34F26)
 
+[**View Repo →**](https://github.com/Rajshree482/Koenigsegg-Mega-Car)
+
 </td>
 
-<td align="center" valign="top" width="33%">
+<td align="center" valign="top" width="50%">
 
 ![DSA](https://img.shields.io/badge/🧩_GDG_DSA_Series-Java_%2B_Patterns-ffb700?style=for-the-badge&labelColor=1a1402)
 
@@ -115,6 +143,8 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 
 ![Java](https://img.shields.io/badge/Java-1a1402?style=flat-square&logo=openjdk&logoColor=007396)
 
+[**View Repo →**](https://github.com/Rajshree482/GDG_DSA_Series)
+
 </td>
 
 </tr>
@@ -123,7 +153,8 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TECH ARSENAL -->
-### `> skills --grep -i "shipped"`
+<h3 align="center">⚙️ Tech Arsenal</h3>
+<p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
 
@@ -136,7 +167,8 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- METRICS -->
-### `> stats --since "first commit"`
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
 
@@ -152,7 +184,8 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- ACTIVITY + SNAKE -->
-### `> git log --graph --all`
+<h3 align="center">📈 Contribution Activity</h3>
+<p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
 
@@ -169,7 +202,8 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TERMINAL -->
-### `> status --current`
+<h3 align="center">🚧 Currently Working On</h3>
+<p align="center"><sub>──────────────────────────</sub></p>
 
 ```bash
 rajshree@ITER:~$ status --current
@@ -186,7 +220,8 @@ rajshree@ITER:~$ █
 <!-- CONNECT + FOOTER -->
 <div align="center">
 
-### `> contact --me`
+<h3 align="center">📬 Contact Me</h3>
+<p align="center"><sub>──────────────────────────</sub></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajshree482-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://github.com/Rajshree482)
 &nbsp;
