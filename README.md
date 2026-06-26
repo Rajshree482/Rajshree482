@@ -34,39 +34,34 @@
 &nbsp;
 ![Views](https://komarev.com/ghpvc/?username=Rajshree482&style=flat-square&color=ffb700&labelColor=1a1402&label=visitors)
 
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1402?style=flat-square&logo=linkedin&logoColor=ffb700)](https://www.linkedin.com/in/rajshree-balsamant-79b003350/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-1a1402?style=flat-square&logo=hackerrank&logoColor=ffb700)](https://www.hackerrank.com/profile/rajshreebalsama1)
+
 </div>
 
 <br/>
 
-<!-- IDENTITY -->
+<!-- ABOUT ME -->
+### 🧑‍💻 About me
+
 <table>
 <tr>
 <td width="58%" valign="top">
 
-### `> whoami`
+Hello there! I'm **Rajshree Balsamant**, a B.Tech CSE student and a **Dev × Content Writer** — someone who ships a feature, then writes the doc nobody reads. I'm currently exploring where code meets storytelling, building things with HTML, CSS, JavaScript, Python, Java, and SQL, while arguing with CSS more than with people.
 
-```js
-const rajshree = {
-  name    : "Rajshree Balsamant",
-  alias   : "Rajshree482",
-  role    : "Dev × Content Writer",
-  campus  : "ITER, SOA University — Bhubaneswar, India",
-  org     : "Content Writer @ GDG on Campus ITER",
+I think button copy is a design decision, not an afterthought, and I'm just as comfortable writing the documentation as I am writing the function it describes.
 
-  // not your average "I write clean code" bio
-  actually_does : [
-    "ships a feature, then writes the doc nobody reads",
-    "argues with CSS more than with people",
-    "thinks button copy is a design decision, not an afterthought",
-  ],
-
-  currently : [
-    "Portfolio v2   → personal site, design-first",
-    "This README    → yes, recursively, I know",
-    "Exploring      → where code meets storytelling",
-  ],
-};
-```
+&nbsp;&nbsp;🎓 &nbsp;Studying at **ITER, SOA University** — Bhubaneswar, India
+<br/>
+&nbsp;&nbsp;✍️ &nbsp;**Content Writer** @ GDG on Campus ITER
+<br/>
+&nbsp;&nbsp;🗂️ &nbsp;Building **Portfolio v2** — personal site, design-first
+<br/>
+&nbsp;&nbsp;📝 &nbsp;Writing **this README** — yes, recursively, I know
 
 </td>
 <td width="42%" valign="top" align="center">
