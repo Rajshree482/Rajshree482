@@ -28,7 +28,11 @@
 <br/>
 
 <!-- ABOUT ME -->
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=About+Me" /></h2>
+<p align="center">
+<svg width="280" height="44" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">About Me</text>
+</svg>
+</p>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <table>
@@ -75,7 +79,11 @@ I believe good interfaces and good writing solve the same problem: making someth
 <br/>
 
 <!-- PROJECTS -->
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=500&height=50&lines=Projects+I%27ve+Built" /></h2>
+<p align="center">
+<svg width="420" height="44" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Projects I've Built</text>
+</svg>
+</p>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <br/>
@@ -153,7 +161,11 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TECH ARSENAL -->
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=Tech+Arsenal" /></h2>
+<p align="center">
+<svg width="320" height="44" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Tech Arsenal</text>
+</svg>
+</p>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -167,7 +179,11 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- METRICS -->
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=GitHub+Stats" /></h2>
+<p align="center">
+<svg width="320" height="44" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">GitHub Stats</text>
+</svg>
+</p>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -184,7 +200,11 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- ACTIVITY + SNAKE -->
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=500&height=50&lines=Contribution+Activity" /></h2>
+<p align="center">
+<svg width="460" height="44" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Contribution Activity</text>
+</svg>
+</p>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -202,7 +222,11 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TERMINAL -->
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=500&height=50&lines=Currently+Working+On" /></h2>
+<p align="center">
+<svg width="460" height="44" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Currently Working On</text>
+</svg>
+</p>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 ```bash
@@ -220,7 +244,11 @@ rajshree@ITER:~$ █
 <!-- CONNECT + FOOTER -->
 <div align="center">
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=Contact+Me" /></h2>
+<p align="center">
+<svg width="280" height="44" xmlns="http://www.w3.org/2000/svg">
+  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Contact Me</text>
+</svg>
+</p>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajshree482-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://github.com/Rajshree482)
