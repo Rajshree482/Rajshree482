@@ -7,38 +7,21 @@
 
 <br/>
 
-<table>
-<tr>
-<td align="center">
-<sub><b>ROLE</b></sub><br/>
-<sub>Dev × Content Writer</sub>
-</td>
-<td align="center">
-<sub><b>BASE</b></sub><br/>
-<sub>Bhubaneswar, IN</sub>
-</td>
-<td align="center">
-<sub><b>BUILD</b></sub><br/>
-<sub>B.Tech CSE '28</sub>
-</td>
-<td align="center">
-<sub><b>STATUS</b></sub><br/>
-<sub>🟡 actively shipping</sub>
-</td>
-</tr>
-</table>
-
-<br/>
-
+![Role](https://img.shields.io/badge/Dev_×_Content_Writer-1a1402?style=flat-square&color=1a1402&labelColor=1a1402)
+&nbsp;
+![Base](https://img.shields.io/badge/📍_Bhubaneswar,_IN-1a1402?style=flat-square&color=1a1402&labelColor=1a1402)
+&nbsp;
+![Build](https://img.shields.io/badge/🎓_B.Tech_CSE_'28-1a1402?style=flat-square&color=1a1402&labelColor=1a1402)
+&nbsp;
 [![Followers](https://img.shields.io/github/followers/Rajshree482?style=flat-square&logo=github&color=ffb700&labelColor=1a1402&logoColor=ffb700&label=followers)](https://github.com/Rajshree482?tab=followers)
-&nbsp;
-![Views](https://komarev.com/ghpvc/?username=Rajshree482&style=flat-square&color=ffb700&labelColor=1a1402&label=visitors)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-1a1402?style=flat-square&logo=linkedin&logoColor=ffb700)](https://www.linkedin.com/in/rajshree-balsamant-79b003350/)
+![Views](https://komarev.com/ghpvc/?username=Rajshree482&style=flat-square&color=1a1402&labelColor=1a1402&label=profile+views)
 &nbsp;
-[![HackerRank](https://img.shields.io/badge/HACKERRANK-1a1402?style=flat-square&logo=hackerrank&logoColor=ffb700)](https://www.hackerrank.com/profile/rajshreebalsama1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1402?style=flat-square&logo=linkedin&logoColor=ffb700&color=1a1402)](https://www.linkedin.com/in/rajshree-balsamant-79b003350/)
+&nbsp;
+[![HackerRank](https://img.shields.io/badge/HackerRank-1a1402?style=flat-square&logo=hackerrank&logoColor=ffb700&color=1a1402)](https://www.hackerrank.com/profile/rajshreebalsama1)
 
 </div>
 
