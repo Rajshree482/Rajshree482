@@ -28,7 +28,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-<h3 align="center">🧑‍💻 About Me</h3>
+<h2 align="center"><span style="color:#ffb700;">About Me</span></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <table>
@@ -75,7 +75,7 @@ I believe good interfaces and good writing solve the same problem: making someth
 <br/>
 
 <!-- PROJECTS -->
-<h3 align="center">🗂️ Projects I've Built</h3>
+<h2 align="center"><span style="color:#ffb700;">Projects I've Built</span></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <br/>
@@ -153,7 +153,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TECH ARSENAL -->
-<h3 align="center">⚙️ Tech Arsenal</h3>
+<h2 align="center"><span style="color:#ffb700;">Tech Arsenal</span></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -167,7 +167,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- METRICS -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center"><span style="color:#ffb700;">GitHub Stats</span></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -184,7 +184,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- ACTIVITY + SNAKE -->
-<h3 align="center">📈 Contribution Activity</h3>
+<h2 align="center"><span style="color:#ffb700;">Contribution Activity</span></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -202,7 +202,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TERMINAL -->
-<h3 align="center">🚧 Currently Working On</h3>
+<h2 align="center"><span style="color:#ffb700;">Currently Working On</span></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 ```bash
@@ -220,7 +220,7 @@ rajshree@ITER:~$ █
 <!-- CONNECT + FOOTER -->
 <div align="center">
 
-<h3 align="center">📬 Contact Me</h3>
+<h2 align="center"><span style="color:#ffb700;">Contact Me</span></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajshree482-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://github.com/Rajshree482)
