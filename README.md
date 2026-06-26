@@ -179,7 +179,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- METRICS -->
-<p align="center">
+<!-- <p align="center">
 <svg width="320" height="44" xmlns="http://www.w3.org/2000/svg">
   <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">GitHub Stats</text>
 </svg>
@@ -197,7 +197,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 
 </div>
 
-<br/>
+<br/> -->
 
 <!-- ACTIVITY + SNAKE -->
 <p align="center">
