@@ -1,23 +1,42 @@
-<!-- HERO -->
+<!-- HERO: CUSTOM BANNER + TYPING TAGLINE -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:1a1402,60:281d03,80:1a1402,100:000000&height=400&section=header&text=RAJSHREE&fontSize=120&fontAlignY=36&fontColor=ffb700&animation=twinkling&stroke=ffb700&strokeWidth=1.2&desc=Rajshree%20Balsamant%20%E2%80%94%20Builder%20%2B%20Writer&descSize=16&descAlignY=55&descColor=947a3a" width="100%" />
+<img src="https://raw.githubusercontent.com/Rajshree482/Rajshree482/main/Git.png" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2600&pause=600&color=FFB700&center=true&vCenter=true&width=820&height=36&separator=%3B&lines=%E2%96%B8+HTML+%E2%86%92+CSS+%E2%86%92+JS+%E2%86%92+interfaces+that+behave;%E2%96%B8+content+writer+%40+GDG+on+Campus+ITER+%E2%80%94+proposals%2C+scripts%2C+docs;%E2%96%B8+B.Tech+CSE+%E2%80%9928+%40+ITER%2C+SOA+University+%E2%80%94+Bhubaneswar%2C+India;%E2%96%B8+Code+it.+Then+explain+why+it+matters." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFB700&center=true&vCenter=true&width=600&height=40&lines=Code+that+works.+Words+that+land." />
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/Rajshree482?style=for-the-badge&logo=github&color=ffb700&labelColor=1a1402&logoColor=ffb700&label=FOLLOWERS)](https://github.com/Rajshree482?tab=followers)
+<table>
+<tr>
+<td align="center">
+<sub><b>ROLE</b></sub><br/>
+<sub>Dev × Content Writer</sub>
+</td>
+<td align="center">
+<sub><b>BASE</b></sub><br/>
+<sub>Bhubaneswar, IN</sub>
+</td>
+<td align="center">
+<sub><b>BUILD</b></sub><br/>
+<sub>B.Tech CSE '28</sub>
+</td>
+<td align="center">
+<sub><b>STATUS</b></sub><br/>
+<sub>🟡 actively shipping</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/Rajshree482?style=flat-square&logo=github&color=ffb700&labelColor=1a1402&logoColor=ffb700&label=followers)](https://github.com/Rajshree482?tab=followers)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=Rajshree482&style=for-the-badge&color=ffb700&labelColor=1a1402&label=PROFILE+VIEWS)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-BUILDING_%2B_WRITING-ffb700?style=for-the-badge&labelColor=1a1402)
-&nbsp;
-![Location](https://img.shields.io/badge/INDIA-BHUBANESWAR-ffb700?style=for-the-badge&logo=googlemaps&logoColor=ffb700&labelColor=1a1402)
+![Views](https://komarev.com/ghpvc/?username=Rajshree482&style=flat-square&color=ffb700&labelColor=1a1402&label=visitors)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
+<br/>
 
 <!-- IDENTITY -->
 <table>
@@ -33,17 +52,17 @@ const rajshree = {
   role    : "Dev × Content Writer",
   campus  : "ITER, SOA University — Bhubaneswar, India",
   org     : "Content Writer @ GDG on Campus ITER",
-  runtime : "idea ↔ interface ↔ words ↔ user",
 
-  thinking_in : [
-    "interfaces",          // not just pages
-    "narrative",           // not just copy
-    "what the user feels", // not just what they click
+  // not your average "I write clean code" bio
+  actually_does : [
+    "ships a feature, then writes the doc nobody reads",
+    "argues with CSS more than with people",
+    "thinks button copy is a design decision, not an afterthought",
   ],
 
   currently : [
     "Portfolio v2   → personal site, design-first",
-    "Profile README → yes, this one, recursively",
+    "This README    → yes, recursively, I know",
     "Exploring      → where code meets storytelling",
   ],
 };
@@ -74,14 +93,10 @@ const rajshree = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
+<br/>
 
 <!-- PROJECTS -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+PROJECTS+%2F%2F+THINGS+I%27VE+BUILT" />
-</div>
-
-<br/>
+### `> ls projects/ --shipped`
 
 <table>
 <tr>
@@ -127,29 +142,25 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
-
-<!-- TECH ARSENAL -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+TECH+ARSENAL+%2F%2F+WHAT+I+BUILD+WITH" />
-
 <br/>
 
-[![Languages](https://skillicons.dev/icons?i=js,py,java,html,css&theme=dark&perline=6)](https://github.com/Rajshree482)
+<!-- TECH ARSENAL -->
+### `> skills --grep -i "shipped"`
 
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=js,py,java,html,css&theme=dark&perline=6)](https://github.com/Rajshree482)
+&nbsp;&nbsp;
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=6)](https://github.com/Rajshree482)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
+<br/>
 
 <!-- METRICS -->
+### `> stats --since "first commit"`
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+METRICS+%2F%2F+GITHUB+STATS" />
-
-<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajshree482&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1402&title_color=ffb700&icon_color=ffb700&text_color=947a3a&count_private=true&rank_icon=github&card_width=450" width="48%" />
 <img src="https://streak-stats.demolab.com?user=Rajshree482&theme=tokyonight&hide_border=true&background=1a1402&ring=ffb700&fire=ffb700&currStreakNum=ffb700&sideNums=947a3a&currStreakLabel=ffb700&sideLabels=947a3a&dates=8a6f1f&card_width=450" width="48%" />
@@ -160,12 +171,12 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
+<br/>
 
 <!-- ACTIVITY + SNAKE -->
-<div align="center">
+### `> git log --graph --all`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+ACTIVITY+%2F%2F+CONTRIBUTION+GRAPH" />
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree482&bg_color=1a1402&color=ffb700&line=ffb700&point=ffffff&area_color=ffb700&area=true&hide_border=true&custom_title=Rajshree+Contribution+Activity&title_color=ffb700" width="100%" />
 
@@ -177,12 +188,10 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
+<br/>
 
 <!-- TERMINAL -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+TERMINAL+%2F%2F+CURRENTLY+WORKING+ON" />
-</div>
+### `> status --current`
 
 ```bash
 rajshree@ITER:~$ status --current
@@ -194,8 +203,12 @@ rajshree@ITER:~$ status --current
 rajshree@ITER:~$ █
 ```
 
+<br/>
+
 <!-- CONNECT + FOOTER -->
 <div align="center">
+
+### `> contact --me`
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajshree482-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://github.com/Rajshree482)
 &nbsp;
@@ -209,6 +222,8 @@ rajshree@ITER:~$ █
 
 > *"Good UI tells a user what to do. Good copy tells them why they should care."*
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:1a1402,60:281d03,80:1a1402,100:000000&height=160&section=footer&text=Keep%20Shipping.&fontSize=40&fontColor=4d3f15&fontAlignY=55&animation=twinkling" width="100%" />
+<sub>// TODO: keep shipping</sub>
+
+</div>
