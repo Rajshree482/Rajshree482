@@ -1,4 +1,4 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00000C,20:0D1117,60:0D1117,80:0D1117,100:000000&height=200&section=header&text=RAJSHREE%20BALSAMANT&fontSize=42&fontAlignY=36&fontColor=00f7ff&animation=twinkling&stroke=00f7ff&strokeWidth=1.2&desc=Frontend%20Dev%20%7C%7C%20Storyteller%20%7C%7C%20Building%20Things%20that%20Talk%20%7C%7C%20Never%20ship%20broken.&descAlignY=55&descSize=14&descColor=607b96" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00000C,20:0D1117,60:0D1117,80:0D1117,100:000000&height=200&section=header&text=RAJSHREE%20BALSAMANT&fontSize=42&fontAlignY=36&fontColor=00f7ff&animation=twinkling&stroke=00f7ff&strokeWidth=1.2&desc=Frontend%20Dev%20%7C%7C%20Storyteller%20%7C%7C%20Building%20Things%20that%20Talk%20%7C%7C%20Never%20ship%20broken.&descAlignY=55&descSize=14&descColor=607b96" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=820&lines=const+rajshree+%3D+%7B;+++role%3A+%22Frontend+Dev+%C3%97+Content%2FNarrative+Engineer%22%2C;+++stack%3A+%22HTML+%E2%86%92+CSS+%E2%86%92+JS+%E2%86%92+Python+%E2%86%92+Java+%E2%86%92+SQL%22%2C;+++thinking_in%3A+%5B%22UI%22%2C+%22UX+copy%22%2C+%22narrative%22%5D%2C;+++currently%3A+%22shipping+%2B+writing+%2B+learning%22;+%7D%3B" alt="Typing SVG" />
@@ -131,10 +131,10 @@ DSA problem-solving series with GDG on Campus — Java fundamentals to patterns.
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Rajshree482/Rajshree482/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00000C&height=120&section=footer" /> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00000C&height=120&section=footer" />
 
 
-Just for intro
+<!-- Just for intro
  👋 Hi Coders, I'm Rajshree Balsamant(@Rajshree482) A passionate Frontend Developer-in-training.
 
 🌱 I’m currently exploring the world of Web Development
@@ -147,7 +147,7 @@ Just for intro
 
 😄 Pronouns: She/her
   
-⚡ Fun fact: I love designing
+⚡ Fun fact: I love designing -->
 
 <!---
 Rajshree482/Rajshree482 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
