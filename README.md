@@ -28,7 +28,7 @@
 <br/>
 
 <!-- ABOUT ME -->
-<h2 align="center"><span style="color:#ffb700;">About Me</span></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=About+Me" /></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <table>
@@ -75,7 +75,7 @@ I believe good interfaces and good writing solve the same problem: making someth
 <br/>
 
 <!-- PROJECTS -->
-<h2 align="center"><span style="color:#ffb700;">Projects I've Built</span></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=500&height=50&lines=Projects+I%27ve+Built" /></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <br/>
@@ -153,7 +153,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TECH ARSENAL -->
-<h2 align="center"><span style="color:#ffb700;">Tech Arsenal</span></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=Tech+Arsenal" /></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -167,7 +167,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- METRICS -->
-<h2 align="center"><span style="color:#ffb700;">GitHub Stats</span></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=GitHub+Stats" /></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -184,7 +184,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- ACTIVITY + SNAKE -->
-<h2 align="center"><span style="color:#ffb700;">Contribution Activity</span></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=500&height=50&lines=Contribution+Activity" /></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -202,7 +202,7 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TERMINAL -->
-<h2 align="center"><span style="color:#ffb700;">Currently Working On</span></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=500&height=50&lines=Currently+Working+On" /></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 ```bash
@@ -220,7 +220,7 @@ rajshree@ITER:~$ █
 <!-- CONNECT + FOOTER -->
 <div align="center">
 
-<h2 align="center"><span style="color:#ffb700;">Contact Me</span></h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=32&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=400&height=50&lines=Contact+Me" /></h2>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajshree482-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://github.com/Rajshree482)
