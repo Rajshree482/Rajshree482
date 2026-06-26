@@ -1,59 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00000C,20:0D1117,60:0D1117,80:0D1117,100:000000&height=200&section=header&text=RAJSHREE%20BALSAMANT&fontSize=42&fontAlignY=36&fontColor=00f7ff&animation=twinkling&stroke=00f7ff&strokeWidth=1.2&desc=Frontend%20Dev%20%7C%7C%20Storyteller%20%7C%7C%20Building%20Things%20that%20Talk%20%7C%7C%20Never%20ship%20broken.&descAlignY=55&descSize=14&descColor=607b96" />
+<!-- HERO -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=00F7FF&center=true&vCenter=true&width=820&lines=const+rajshree+%3D+%7B;+++role%3A+%22Frontend+Dev+%C3%97+Content%2FNarrative+Engineer%22%2C;+++stack%3A+%22HTML+%E2%86%92+CSS+%E2%86%92+JS+%E2%86%92+Python+%E2%86%92+Java+%E2%86%92+SQL%22%2C;+++thinking_in%3A+%5B%22UI%22%2C+%22UX+copy%22%2C+%22narrative%22%5D%2C;+++currently%3A+%22shipping+%2B+writing+%2B+learning%22;+%7D%3B" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:1a1402,60:281d03,80:1a1402,100:000000&height=400&section=header&text=RAJSHREE&fontSize=120&fontAlignY=36&fontColor=ffb700&animation=twinkling&stroke=ffb700&strokeWidth=1.2&desc=Rajshree%20Balsamant%20%E2%80%94%20Builder%20%2B%20Writer&descSize=16&descAlignY=55&descColor=947a3a" width="100%" />
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&duration=2600&pause=600&color=FFB700&center=true&vCenter=true&width=820&height=36&separator=%3B&lines=%E2%96%B8+HTML+%E2%86%92+CSS+%E2%86%92+JS+%E2%86%92+interfaces+that+behave;%E2%96%B8+content+writer+%40+GDG+on+Campus+ITER+%E2%80%94+proposals%2C+scripts%2C+docs;%E2%96%B8+B.Tech+CSE+%E2%80%9928+%40+ITER%2C+SOA+University+%E2%80%94+Bhubaneswar%2C+India;%E2%96%B8+Code+it.+Then+explain+why+it+matters." />
 
-<table align="center">
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/Rajshree482?style=for-the-badge&logo=github&color=ffb700&labelColor=1a1402&logoColor=ffb700&label=FOLLOWERS)](https://github.com/Rajshree482?tab=followers)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=Rajshree482&style=for-the-badge&color=ffb700&labelColor=1a1402&label=PROFILE+VIEWS)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-BUILDING_%2B_WRITING-ffb700?style=for-the-badge&labelColor=1a1402)
+&nbsp;
+![Location](https://img.shields.io/badge/INDIA-BHUBANESWAR-ffb700?style=for-the-badge&logo=googlemaps&logoColor=ffb700&labelColor=1a1402)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
+
+<!-- IDENTITY -->
+<table>
 <tr>
-<td valign="top" width="50%">
+<td width="58%" valign="top">
 
-```
-> whoami
-```
+### `> whoami`
+
 ```js
 const rajshree = {
-  name      : "Rajshree Balsamant",
-  alias     : "Rajshree482",
-  role      : "Frontend Dev × Content/Narrative Engineer",
-  team      : "TechRediva",
-  pronouns  : "she / her",
+  name    : "Rajshree Balsamant",
+  alias   : "Rajshree482",
+  role    : "Dev × Content Writer",
+  campus  : "ITER, SOA University — Bhubaneswar, India",
+  org     : "Content Writer @ GDG on Campus ITER",
+  runtime : "idea ↔ interface ↔ words ↔ user",
 
   thinking_in : [
-    "interfaces",     // not just pages
-    "user flows",     // not just clicks
-    "narrative",      // not just copy
+    "interfaces",          // not just pages
+    "narrative",           // not just copy
+    "what the user feels", // not just what they click
   ],
 
   currently : [
-    "Building     → Portfolio-Website v2",
-    "Writing      → UX copy that doesn't sound like UX copy",
-    "Exploring    → where code meets storytelling",
+    "Portfolio v2   → personal site, design-first",
+    "Profile README → yes, this one, recursively",
+    "Exploring      → where code meets storytelling",
   ],
 };
 ```
 
 </td>
-<td valign="top" width="50%">
+<td width="42%" valign="top" align="center">
 
-```
-> arch --stack
-```
+### `> arch --stack`
+
 ```
 ┌──────────────┬──────────────────┐
 │  LANGUAGES   │ Python · Java    │
 │              │ SQL · JS         │
 ├──────────────┼──────────────────┤
 │  FRONTEND    │ HTML · CSS       │
-│              │ JavaScript       │
+│              │ JavaScript        │
 ├──────────────┼──────────────────┤
 │  CRAFT       │ UI Design        │
-│              │ Content Writing  │
+│              │ Content Writing   │
 ├──────────────┼──────────────────┤
 │  TOOLS       │ Git · GitHub     │
-│              │ VS Code          │
+│              │ VS Code           │
 └──────────────┴──────────────────┘
 ```
 
@@ -61,96 +74,141 @@ const rajshree = {
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
 
-## `> ls projects/`
+<!-- PROJECTS -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+PROJECTS+%2F%2F+THINGS+I%27VE+BUILT" />
+</div>
 
-<table align="center">
+<br/>
+
+<table>
 <tr>
-<td width="33%" valign="top">
 
-**Portfolio-Website**
-<br>
-Personal portfolio site — design-first, built to actually *read* well, not just look good.
-<br><br>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<td align="center" valign="top" width="33%">
 
-</td>
-<td width="33%" valign="top">
+![Portfolio](https://img.shields.io/badge/🗂️_Portfolio--Website-Personal_Site-ffb700?style=for-the-badge&labelColor=1a1402)
 
-**Koenigsegg-Mega-Car**
-<br>
-Car showcase site — animation + layout practice, JS-driven interactions.
-<br><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+**HTML → CSS → layout-first design**
+
+Built to actually *read* well, not just look good — typography and whitespace did more work than any JS animation.
+
+![HTML](https://img.shields.io/badge/HTML-1a1402?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-1a1402?style=flat-square&logo=css3&logoColor=1572B6)
 
 </td>
-<td width="33%" valign="top">
 
-**GDG_DSA_Series**
-<br>
-DSA problem-solving series with GDG on Campus — Java fundamentals to patterns.
-<br><br>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<td align="center" valign="top" width="33%">
+
+![Koenigsegg](https://img.shields.io/badge/🏎️_Koenigsegg_Showcase-Animation_%2B_JS-ffb700?style=for-the-badge&labelColor=1a1402)
+
+**Scroll-triggered interactions + layout choreography**
+
+A car showcase site built as a JS animation playground — every scroll has a reason to exist.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1402?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML-1a1402?style=flat-square&logo=html5&logoColor=E34F26)
 
 </td>
+
+<td align="center" valign="top" width="33%">
+
+![DSA](https://img.shields.io/badge/🧩_GDG_DSA_Series-Java_%2B_Patterns-ffb700?style=for-the-badge&labelColor=1a1402)
+
+**Fundamentals → patterns, documented as I go**
+
+A DSA problem-solving series for GDG on Campus — every solution written to be re-readable, not just re-runnable.
+
+![Java](https://img.shields.io/badge/Java-1a1402?style=flat-square&logo=openjdk&logoColor=007396)
+
+</td>
+
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
 
-## `> stats --me`
+<!-- TECH ARSENAL -->
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajshree482&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=C9D1D9&ring_color=00F7FF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree482&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9" width="38%" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+TECH+ARSENAL+%2F%2F+WHAT+I+BUILD+WITH" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajshree482&theme=react&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
-</p>
+<br/>
 
-<br>
+[![Languages](https://skillicons.dev/icons?i=js,py,java,html,css&theme=dark&perline=6)](https://github.com/Rajshree482)
 
-## `> connect --me`
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=6)](https://github.com/Rajshree482)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rajshree-balsamant-79b003350/"><img src="https://img.shields.io/badge/LinkedIn-Rajshree_Balsamant-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/astrate03/"><img src="https://img.shields.io/badge/Instagram-astrate03-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://schr0dy-coder.github.io/TechRediva/"><img src="https://img.shields.io/badge/Team-TechRediva-00F7FF?style=for-the-badge&logo=github&logoColor=black"/></a>
-</p>
+</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
 
-<p align="center"><i>"Good UI tells a user what to do. Good copy tells them why they should care."</i></p>
+<!-- METRICS -->
+<div align="center">
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+METRICS+%2F%2F+GITHUB+STATS" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rajshree482&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1402&title_color=ffb700&icon_color=ffb700&text_color=947a3a&count_private=true&rank_icon=github&card_width=450" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Rajshree482&theme=tokyonight&hide_border=true&background=1a1402&ring=ffb700&fire=ffb700&currStreakNum=ffb700&sideNums=947a3a&currStreakLabel=ffb700&sideLabels=947a3a&dates=8a6f1f&card_width=450" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree482&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1402&title_color=ffb700&text_color=947a3a&langs_count=8&card_width=460" width="48%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
+
+<!-- ACTIVITY + SNAKE -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+ACTIVITY+%2F%2F+CONTRIBUTION+GRAPH" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajshree482&bg_color=1a1402&color=ffb700&line=ffb700&point=ffffff&area_color=ffb700&area=true&hide_border=true&custom_title=Rajshree+Contribution+Activity&title_color=ffb700" width="100%" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajshree482/Rajshree482/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Rajshree482/Rajshree482/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rajshree482/Rajshree482/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rajshree482/Rajshree482/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rajshree482/Rajshree482/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00000C&height=120&section=footer" />
+</div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffb700,100:000000&height=1&section=header" width="100%" />
 
-<!-- Just for intro
- 👋 Hi Coders, I'm Rajshree Balsamant(@Rajshree482) A passionate Frontend Developer-in-training.
+<!-- TERMINAL -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=99999&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+TERMINAL+%2F%2F+CURRENTLY+WORKING+ON" />
+</div>
 
-🌱 I’m currently exploring the world of Web Development
+```bash
+rajshree@ITER:~$ status --current
 
-📫 How to reach me https://www.linkedin.com/in/rajshree-balsamant-79b003350/
+  [#######---]  Portfolio v2          70%  layout pass · copy pass · deploy
+  [#####-----]  GDG content pipeline  50%  event proposals · reel scripts · docs
+  [###-------]  DSA series        ongoing  Java fundamentals → patterns, documented
 
-📄 Know about my experiences https://github.com/Rajshree482
+rajshree@ITER:~$ █
+```
 
-🔭 My Team [TechRediva](https://schr0dy-coder.github.io/TechRediva/)
+<!-- CONNECT + FOOTER -->
+<div align="center">
 
-😄 Pronouns: She/her
-  
-⚡ Fun fact: I love designing -->
+[![GitHub](https://img.shields.io/badge/GitHub-Rajshree482-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://github.com/Rajshree482)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajshree_Balsamant-ffb700?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1a1402)](https://www.linkedin.com/in/rajshree-balsamant-79b003350/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-astrate03-ffb700?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=1a1402)](https://www.instagram.com/astrate03/)
+&nbsp;
+[![Team](https://img.shields.io/badge/Team-TechRediva-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://schr0dy-coder.github.io/TechRediva/)
 
-<!---
-Rajshree482/Rajshree482 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/>
 
+> *"Good UI tells a user what to do. Good copy tells them why they should care."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:1a1402,60:281d03,80:1a1402,100:000000&height=160&section=footer&text=Keep%20Shipping.&fontSize=40&fontColor=4d3f15&fontAlignY=55&animation=twinkling" width="100%" />
