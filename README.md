@@ -60,13 +60,13 @@ I believe good interfaces and good writing solve the same problem: making someth
 │              │ SQL · JS         │
 ├──────────────┼──────────────────┤
 │  FRONTEND    │ HTML · CSS       │
-│              │ JavaScript        │
+│              │ JavaScript       │
 ├──────────────┼──────────────────┤
 │  CRAFT       │ UI Design        │
-│              │ Content Writing   │
+│              │ Content Writing  │
 ├──────────────┼──────────────────┤
 │  TOOLS       │ Git · GitHub     │
-│              │ VS Code           │
+│              │ VS Code          │
 └──────────────┴──────────────────┘
 ```
 
