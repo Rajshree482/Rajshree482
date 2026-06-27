@@ -28,11 +28,9 @@
 <br/>
 
 <!-- ABOUT ME -->
-<p align="center">
-<svg width="280" height="44" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">About Me</text>
-</svg>
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+ABOUT+ME" />
+</div>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <table>
@@ -79,11 +77,9 @@ I believe good interfaces and good writing solve the same problem: making someth
 <br/>
 
 <!-- PROJECTS -->
-<p align="center">
-<svg width="420" height="44" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Projects I've Built</text>
-</svg>
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+%2F%2F+THINGS+I%27VE+BUILT" />
+</div>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <br/>
@@ -160,12 +156,10 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 
 <br/>
 
-<!-- TECH ARSENAL -->
-<p align="center">
-<svg width="320" height="44" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Tech Arsenal</text>
-</svg>
-</p>
+<!-- TECH STACK -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+TECH+ARSENAL" />
+</div>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -178,33 +172,24 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 
 <br/>
 
-<!-- METRICS -->
-<!-- <p align="center">
-<svg width="320" height="44" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">GitHub Stats</text>
-</svg>
-</p>
+<!-- DEMOGRAPHICS -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+GITHUB+STATS" />
+</div>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rajshree482&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1402&title_color=ffb700&icon_color=ffb700&text_color=947a3a&count_private=true&rank_icon=github&card_width=450" width="48%" />
-<img src="https://streak-stats.demolab.com?user=Rajshree482&theme=tokyonight&hide_border=true&background=1a1402&ring=ffb700&fire=ffb700&currStreakNum=ffb700&sideNums=947a3a&currStreakLabel=ffb700&sideLabels=947a3a&dates=8a6f1f&card_width=450" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree482&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1402&title_color=ffb700&text_color=947a3a&langs_count=8&card_width=460" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajshree482&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1402&title_color=ffb700&text_color=947a3a&langs_count=8&card_width=450" width="48%" />
 
 </div>
-
-<br/> -->
+<br/>
 
 <!-- ACTIVITY + SNAKE -->
-<p align="center">
-<svg width="460" height="44" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Contribution Activity</text>
-</svg>
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+CONTRIBUTION+ACTIVITY" />
+</div>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 <div align="center">
@@ -222,11 +207,9 @@ A DSA problem-solving series for GDG on Campus — every solution written to be 
 <br/>
 
 <!-- TERMINAL -->
-<p align="center">
-<svg width="460" height="44" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Currently Working On</text>
-</svg>
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+CURRENTLY+WORKING+ON" />
+</div>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 ```bash
@@ -244,11 +227,9 @@ rajshree@ITER:~$ █
 <!-- CONNECT + FOOTER -->
 <div align="center">
 
-<p align="center">
-<svg width="280" height="44" xmlns="http://www.w3.org/2000/svg">
-  <text x="50%" y="32" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="32" font-weight="800" fill="#ffb700">Contact Me</text>
-</svg>
-</p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=1&pause=99999&color=FFB700&center=true&vCenter=true&width=460&height=44&lines=%E2%96%B8+CONTACT+ME" />
+</div>
 <p align="center"><sub>──────────────────────────</sub></p>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rajshree482-ffb700?style=for-the-badge&logo=github&logoColor=ffb700&labelColor=1a1402)](https://github.com/Rajshree482)
