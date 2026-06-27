@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/Rajshree482/Rajshree482/main/Git.png" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FFB700&center=true&vCenter=true&width=600&height=40&lines=Code+that+works.+Words+that+land." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=5000&color=FFB700&center=true&vCenter=true&width=600&height=40&lines=Code+that+works.+Words+that+land." />
 
 <br/>
 
@@ -243,9 +243,5 @@ rajshree@ITER:~$ █
 <br/>
 
 > *"Good UI tells a user what to do. Good copy tells them why they should care."*
-
-<br/>
-
-<sub>// TODO: keep shipping</sub>
 
 </div>
